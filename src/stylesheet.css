@@ -1,0 +1,21 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.hidden {
+  display: none;
+}
+
+.print {
+  display: inline-block;
+}
+
+#won,
+#lost {
+  font-weight: 800;
+}
+
+#youChoseNum,
+#machineChoseNum {
+  padding-left: 5px;
+}
